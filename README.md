@@ -1,4 +1,8 @@
 # ML Model Deployment Using FastAPI & Docker
+# 🚀 ML Model Deployment Using FastAPI & Docker
+
+## 🌍 Live API
+👉 https://ml-fastapi-api.onrender.com/docs
 
 ## 📌 Project Overview
 This project demonstrates how to deploy a Machine Learning model as a REST API using FastAPI and Docker.
