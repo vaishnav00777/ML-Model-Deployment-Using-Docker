@@ -3,6 +3,13 @@
 
 ## 🌍 Live API
 👉 https://ml-fastapi-api.onrender.com/docs
+## API Documentation
+
+### Swagger UI
+![API Docs](api_docs.png)
+
+### Sample Prediction
+![Prediction Output](prediction.png)
 
 ## 📌 Project Overview
 This project demonstrates how to deploy a Machine Learning model as a REST API using FastAPI and Docker.
@@ -45,4 +52,5 @@ docker run -p 8000:8000 ml-api
 {
   "prediction": 0
 }
+
 
